@@ -1,0 +1,54 @@
+#navLogo{
+	height: 55px;
+	width: 85px;
+}
+
+.hnd{
+	height: 202px;
+	width: 2000px;
+}
+
+.error-to-screen{
+	font-color : red;
+}
+
+.signclearblt{
+	color: transparent;
+}
+.signclearbtn{
+	text-decoration: underline;
+	margin: 0 auto;
+}
+
+.middlepage{
+	margin: 0 auto; 
+}
+
+.black-text-pro{
+	color: black;
+}
+
+
+.saveButtons{
+	background-color: transparent;
+	border: none;
+	font-weight: bolder;
+}
+
+
+.project-heady{
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+.invisible-line{
+	color: transparent;
+}
+
+.requestBtn{
+	margin-bottom: 0.3%;
+	margin-left: 65%;
+	background-color: #26aaaf;
+}
+
